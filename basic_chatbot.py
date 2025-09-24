@@ -10,7 +10,6 @@ from typing import Sequence
 from langgraph.graph.message import add_messages
 from typing_extensions import Annotated, TypedDict
 
-
 get_cred()
 
 dotenv.load_dotenv()
